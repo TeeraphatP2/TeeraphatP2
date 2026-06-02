@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teeraphat Winprakhonn</h1>
-<h3 align="center">ชอบเขียนโค้ด และเรียนรู้โค้ดใหม่ๆ</h3>
+<h3 align="center">ชอบเขียนโค้ด</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teeraphatp2&label=Profile%20views&color=0e75b6&style=flat" alt="teeraphatp2" /> </p>
 
